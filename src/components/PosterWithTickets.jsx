@@ -4,7 +4,7 @@ const TICKET_LINKS = [
   {
     id: "aug-6",
     label: "August 6th Tickets – Huartan, Signor Bari, Ruairi",
-    href: "#",
+    href: "https://www.skiddle.com/whats-on/Belfast/Ravenhill-Arts-Club/HuartanDJ---Signor-Bari---Ruair/42620627/",
     top: "53%",
     left: "34%",
     width: "14%",
@@ -13,7 +13,7 @@ const TICKET_LINKS = [
   {
     id: "aug-7",
     label: "August 7th Tickets – Le Cheile x Lonesome George",
-    href: "#",
+    href: "https://www.skiddle.com/whats-on/Belfast/Ravenhill-Arts-Club/Le-Cheile-x-Lonesome-George/42620633/",
     top: "65%",
     left: "33.5%",
     width: "14%",
@@ -22,7 +22,7 @@ const TICKET_LINKS = [
   {
     id: "aug-8",
     label: "August 8th Tickets – Holly Lester, Reger Heads, Optimst",
-    href: "#",
+    href: "https://www.skiddle.com/whats-on/Belfast/Ravenhill-Arts-Club/RAW--Holly-Lester-Optmst-Reger-Heads/42620636/",
     top: "78.5%",
     left: "32%",
     width: "14%",
