@@ -1,4 +1,5 @@
 import poster from "../images/poster.jpeg";
+import logo from "../images/artsClubLogo.jpeg";
 
 const TICKET_LINKS = [
   {
@@ -33,6 +34,11 @@ const TICKET_LINKS = [
 export default function PosterWithTickets() {
   return (
     <div className="poster-wrapper">
+      <img
+        src={logo}
+        alt="Ravenhill Arts Club"
+        className="site-logo"
+      />
       <div className="poster-image-container">
         <img
           src={poster}
