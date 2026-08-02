@@ -42,7 +42,7 @@ export default function PosterWithTickets() {
       <div className="poster-image-container">
         <img
           src={poster}
-          alt="Kingstorm Fleadh – August 6th, 7th, 8th at Ravenhill Arts Club"
+          alt="Tradstoras Fleadh – August 6th, 7th, 8th at Ravenhill Arts Club"
           className="poster-image"
         />
 
